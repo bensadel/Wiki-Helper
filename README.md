@@ -14,10 +14,11 @@ BEFORE USING:
 </p>
 <br>
 <p align="center">
-  <img  src="https://github.com/bensadel/wiki-helper-chrome-extension/assets/95494769/2d3fea37-87a4-4e22-aefb-810614701281">
+  <img  src="https://github.com/bensadel/wiki-helper-chrome-extension/assets/95494769/4e3572f4-4140-4f5e-82c9-3fdbaa9d988d">
 </p>
 <br>
 <p align="center">
-  <img  src="https://github.com/bensadel/wiki-helper-chrome-extension/assets/95494769/4e3572f4-4140-4f5e-82c9-3fdbaa9d988d">
+  <img  src="https://github.com/bensadel/wiki-helper-chrome-extension/assets/95494769/2d3fea37-87a4-4e22-aefb-810614701281">
 </p>
+
 
