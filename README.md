@@ -1,4 +1,4 @@
-# wikiHelperChromeExtension
+# Wiki Helper - Chrome Extension
 
 Wiki Helper is a self installable Google Chrome Extension - allowing a user to search a topic on Wikipedia without changing web pages.
 
