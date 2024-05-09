@@ -2,6 +2,11 @@
 
 Wiki Helper is a self installable Google Chrome Extension - allowing a user to search a topic on Wikipedia without changing web pages.
 
+Tech used:
+* JavaScript
+* HTML
+* CSS
+
 BEFORE USING:
 1. Register for API Key here: https://rapidapi.com/dfskGT/api/wiki-briefs
 2. Input API key under line 6 "X-RapidAPI-Key"
